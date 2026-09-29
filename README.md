@@ -1,4 +1,5 @@
-# MinimizeToPrevious
+![Hero](hero.png)
+
 
 A Hammerspoon Spoon that changes the macOS minimize button to do exactly what it must - Minimize the current window. Not bring forth another from the current application.
 
